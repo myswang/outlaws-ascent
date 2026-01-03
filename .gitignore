@@ -1,0 +1,12 @@
+.vs/
+.vscode/
+.cache/
+out/
+out/build/x64-Debug
+build/
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+ext/project_path.hpp
+data/*.json
